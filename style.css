@@ -1,0 +1,18 @@
+/* style.css */
+
+/* Basic styling to make form look nicer */
+body {
+  background-color: #f0f8ff;
+}
+
+h2 {
+  color: #007bff;
+}
+
+form {
+  background-color: #ffffff;
+}
+
+small {
+  font-size: 0.85rem;
+}
